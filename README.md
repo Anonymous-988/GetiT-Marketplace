@@ -2,10 +2,14 @@ Work in progress for EShop
 
 Action Items:
 
-1. Need to fix routes
-2. Need to update Event Card with proper image URLs
-3. Update design issue on the pages using Tailwind
-4. Update Stripe links
+1. Need to fix routes - fixed
+2. Need to update Event Card with proper image URLs - need to work on
+3. Update design issue on the pages using Tailwind - fixed
+4. Update Stripe links - fixed
+
+Recommendations:
+npm --version -> 10.5.0
+node --version -> v20.12.2
 
 Backend/Config/.env File Structure :
 
