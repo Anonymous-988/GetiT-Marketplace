@@ -58,7 +58,7 @@ const Header = ({ activeHeading }) => {
           <div>
             <Link to="/">
               <img
-                src="https://shopo.quomodothemes.website/assets/images/logo.svg"
+                src="https://res.cloudinary.com/dxyb1mjig/image/upload/v1714729944/Logo/logo.svg"
                 alt=""
               />
             </Link>
@@ -217,7 +217,7 @@ const Header = ({ activeHeading }) => {
           <div>
             <Link to="/">
               <img
-                src="https://shopo.quomodothemes.website/assets/images/logo.svg"
+                src="https://res.cloudinary.com/dxyb1mjig/image/upload/v1714729944/Logo/logo.svg"
                 alt=""
                 className="mt-3 cursor-pointer"
               />
