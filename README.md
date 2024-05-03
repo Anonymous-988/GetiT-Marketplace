@@ -7,7 +7,7 @@ Action Items:
 3. Update design issue on the pages using Tailwind - fixed
 4. Update Stripe links - fixed
 
-Recommendations:
+Recommendations (Runtime):
 npm --version -> 10.5.0
 node --version -> v20.12.2
 
