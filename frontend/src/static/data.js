@@ -611,24 +611,30 @@ export const navItems = [
   export const footercompanyLinks = [
     {
       name: "Game & Video",
+      link: "/products?category=Music%20and%20Gaming"
     },
     {
-      name: "Phone &Tablets",
+      name: "Phone & Tablets",
+      link: "/products?category=Mobile%20and%20Tablets"
     },
     {
       name: "Computers & Laptop",
+      link: "/products?category=Computers%20and%20Laptops"
     },
     {
       name: "Sport Watches",
+      link: "/products?category=Accesories"
     },
     {
       name: "Events",
+      link: "/events"
     },
   ];
   
   export const footerSupportLinks = [
     {
       name: "FAQ",
+      link: "/faq"
     },
     {
       name: "Reviews",
