@@ -2,10 +2,10 @@ Work in progress for EShop
 
 Action Items:
 
-1. Need to fix routes - fixed
-2. Need to update Event Card with proper image URLs - fixed
-3. Update design issue on the pages using Tailwind - fixed
-4. Update Stripe links - fixed
+1. Update documentation:
+a. Font and Font Size
+b. Margin and footer(Page Number)
+c. Add Index Table with proper page number mapping.
 
 Recommendations (Runtime):
 npm --version -> 10.5.0
